@@ -42,7 +42,6 @@ public class ProductController {
        //builder en lombok
         Product p = new Product();
 
-
         if (product.getType()== ProductType.CurrentAccount){
              CurrentAccount c = new CurrentAccount();
             c.setType(product.getType());

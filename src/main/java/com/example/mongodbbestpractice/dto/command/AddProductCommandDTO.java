@@ -10,7 +10,7 @@ import java.util.ArrayList;
 @Setter
 public class AddProductCommandDTO {
 
-    String id;
+
 
     ProductType type;
 
