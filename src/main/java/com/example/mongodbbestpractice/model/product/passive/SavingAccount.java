@@ -21,7 +21,7 @@ public class SavingAccount extends Product implements IStrategyProductPassive , 
 
     @Override
     public float getNumMaintenanceCommission() {
-        return (float) 7.5;
+        return (float) 5.0;
     }
 
     @Override

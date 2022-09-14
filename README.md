@@ -1,9 +1,7 @@
-Grupo
+Grupo 2
 Wilder Darwin Vera Quispe
-Bernabe Daniel Inche Ticlavilca 
+Bernabe Daniel Inche Ticlavilca
 
-link youtube
-https://youtu.be/Nyd19RkEA6A
-
-link youtube (audio mejorado)
-https://youtu.be/bliYoSExXc8
+Youtube:
+revision 1: https://youtu.be/bliYoSExXc8 (audio mejorado)
+revision 2: 
